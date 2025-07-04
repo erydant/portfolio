@@ -459,7 +459,7 @@
                     <div class="skill-item">
                         <h5><i class="fas fa-network-wired text-primary me-2"></i>Réseaux</h5>
                         <p>TCP/IP, routage, commutation, sécurité réseau - Acquises en cours</p>
-                        <small class="text-muted">Utilisé dans : AngerScoot</small>
+                        <small class="text-muted">Utilisé dans : </small>
                     </div>
                     
                     <div class="skill-item">
